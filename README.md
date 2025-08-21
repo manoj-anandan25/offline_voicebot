@@ -15,14 +15,14 @@ step 4.Place the folder in your project directory and load it in your code.
 `Python`, `Vosk`, `Pyttsx3`, `Tkinter`, `SoundDevice`, `JSON`, `Multithreading`
 
 🚀 Features:
-- ✅ Real-time **speech-to-text** with Vosk (Kaldi-based ASR)
-- 🔊 Natural **text-to-speech** using Pyttsx3
-- 🖥️ GUI built with **Tkinter** supporting both voice and text inputs
-- 🎤 Microphone selector and real-time testing
-- 🧠 Basic rule-based chatbot (greetings, identity, status, exit)
-- 🔄 Multithreaded, non-blocking interface
-- 🛡️ 100% offline, privacy-first architecture
-- 🔌 Ready for future integration with GPT, Dialogflow, Gemini AI
+-  Real-time **speech-to-text** with Vosk (Kaldi-based ASR)
+-  Natural **text-to-speech** using Pyttsx3
+-  GUI built with **Tkinter** supporting both voice and text inputs
+-  Microphone selector and real-time testing
+-  Basic rule-based chatbot (greetings, identity, status, exit)
+-  Multithreaded, non-blocking interface
+-  100% offline, privacy-first architecture
+-  Ready for future integration with GPT, Dialogflow, Gemini AI
 
 
 🎬 Output Video:https://youtu.be/ysAZEHlM7E8
