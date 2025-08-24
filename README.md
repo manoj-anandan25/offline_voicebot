@@ -6,7 +6,7 @@ step 1.Go to the official Vosk model page:
 👉 https://alphacephei.com/vosk/models
 step 2.Scroll to find:
 vosk-model-small-en-us-0.15
-Or directly use this link:yeah i will
+Or directly use this link:
 👉 Download vosk-model-small-en-us-0.15
 step 3.Extract the .zip file after downloading.
 step 4.Place the folder in your project directory and load it in your code.
