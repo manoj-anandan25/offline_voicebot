@@ -22,7 +22,7 @@ step 4.Place the folder in your project directory and load it in your code.
 -  Basic rule-based chatbot (greetings, identity, status, exit)
 -  Multithreaded, non-blocking interface
 -  100% offline, privacy-first architecture
--  Ready for future integration with GPT, Dialogflow, Gemini AI
+-  Ready for future integration with GPT, Dialogflow, Gemini AIfkhebb
 
 
 🎬 Output Video:https://youtu.be/ysAZEHlM7E8
