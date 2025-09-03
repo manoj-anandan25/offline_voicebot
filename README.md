@@ -1,6 +1,6 @@
 ## Welcome to my repository featuring AI-powered conversational applications 
 An Offline Voice Assistant created with Vosk, Tkinter, and Python.A fully offline voice assistant built using the Vosk speech recognition engine and Pyttsx3 text-to-speech. Designed with a Tkinter GUI, this assistant supports both voice and text input, offers real-time transcription, and is ideal for environments with no internet access.
-
+durga
 Offline Voice Assistant (Python, Vosk, Tkinter)
 step 1.Go to the official Vosk model page:
 👉 https://alphacephei.com/vosk/models
